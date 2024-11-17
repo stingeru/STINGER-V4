@@ -7,9 +7,9 @@ global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
 
 
 // GLOBAL SETTING
-global.owner = "2348187637779"
+global.owner = "2348120055226"
 global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
-global.nomorbot = "2348187637779"
+global.nomorbot = "2348120055226"
 global.namaCreator = "ES TEAMS"
 global.linkyt = "https://youtube.com/@esteams"
 global.autoJoin = false
